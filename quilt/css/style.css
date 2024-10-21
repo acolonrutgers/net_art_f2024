@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+}
+
+.container {
+    display: block;
+    height: 100vh;
+    width: 100vw;
+    background-color: red;
+    background-image: url('https://frutiger-aero.org/img/frutiger-aero-6.webp');
+}
+
+.item1 {
+    float: left;
+    width: 10vw;
+    height: 25vh;
+    background-color: yellow;
+    background-image: url('https://static.displate.com/270x380/displate/2024-07-19/cefe695665b6d61f4405fa08eebb90a9_bdb439936dce6cd0d93e911aaa312aa3.jpg');
+    background-size: contain;
+}
+
+.item2 {
+    float:left;
+    width: 20vw;
+    height: 10vh;
+    background-color: blue;
+    background-image: url('https://img.freepik.com/premium-photo/frutiger-aero-2000s-graph-windows-background_1068178-207.jpg');
+    background-size: cover;
+}
+
+.item3 {
+    
+    float: left;
+    width: 20vw;
+    height: 5vh;
+    background-color: orange;
+    background-image: url('https://i.pinimg.com/736x/84/45/81/844581b275b91d1309bdcccadfd264f0.jpg');
+    background-size: cover;
+}
+
+.item4 {
+    
+    float: left;
+    width: 25vw;
+    height: 15vh;
+    background-color: green;
+    background-image: url('https://imgcdn.stablediffusionweb.com/2024/5/10/e5f9a475-58e6-462f-bc41-55083f9ebba6.jpg');
+    background-size: contain;
+}
+
+.item5 {
+    
+    float: left;
+    width: 25vw;
+    height: 20vh;
+    background-color: purple;
+    background-image: url('https://tr.rbxcdn.com/751233a9c9d0e47478c07a25d788f91b/500/280/Image/Jpeg');
+    background-size: cover;
+}
